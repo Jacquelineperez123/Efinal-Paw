@@ -1,0 +1,8 @@
+<body>
+     <UL>
+        <li><a href="Inicio.html">Introduccion</a></li>
+        <li><a href="acerca de mi.html">Acerca de mi</a></li>
+        <li><a href="Actividades.html">Actividades</a></li>
+        <li><a href="Practicas.html">Practicas</a></li>
+     </UL>
+ </body>
